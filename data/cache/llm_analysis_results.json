@@ -1,0 +1,49 @@
+{
+  "local_analysis": {
+    "total_processed": 3000,
+    "sentiment_distribution": {
+      "nan": 22005,
+      "NEGATIVE": 1509,
+      "POSITIVE": 1491
+    },
+    "processing_time": "~30 segundos"
+  },
+  "gpt_analysis": {
+    "total_processed": 100,
+    "themes_extracted": [
+      "disappointment",
+      "romance",
+      "science fiction",
+      "confusion",
+      "religion",
+      "adventure",
+      "difficulty in reading",
+      "fantasy",
+      "humor",
+      "satisfação com a compra"
+    ],
+    "discrepancies_found": 3,
+    "avg_confidence": 0.8180000000000001,
+    "processing_time": "~5 minutos"
+  },
+  "comparison": {
+    "agreement_rate": 0.614,
+    "total_comparison": 3000,
+    "vader_vs_local": {
+      "agreement": 0.614,
+      "vader_avg_discrepancy": 0.7866666666666666,
+      "local_avg_discrepancy": 0.444
+    },
+    "gpt_analysis": null,
+    "insights": [
+      "Concordância VADER vs DistilBERT: 61.4%",
+      "Discrepância média VADER vs Score: 0.79",
+      "Discrepância média DistilBERT vs Score: 0.44"
+    ]
+  },
+  "insights": [
+    "Concordância VADER vs DistilBERT: 61.4%",
+    "Discrepância média VADER vs Score: 0.79",
+    "Discrepância média DistilBERT vs Score: 0.44"
+  ]
+}

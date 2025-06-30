@@ -1,0 +1,284 @@
+{
+  "user_type_analysis": [
+    {
+      "user_type": "Casual",
+      "avg_score_given": 2.96,
+      "avg_text_length": 870.82,
+      "books_reviewed": 1.0,
+      "User_id": 8993
+    },
+    {
+      "user_type": "Regular",
+      "avg_score_given": 3.11,
+      "avg_text_length": 1374.06,
+      "books_reviewed": 2.19,
+      "User_id": 420
+    },
+    {
+      "user_type": "Ativo",
+      "avg_score_given": 3.81,
+      "avg_text_length": 1727.74,
+      "books_reviewed": 8.71,
+      "User_id": 7
+    }
+  ],
+  "top_reviewers": [
+    {
+      "User_id": "A1X8VZWTOG8IS6",
+      "avg_score_given": 3.28,
+      "reviews_written": 18,
+      "avg_text_length": 682.33,
+      "books_reviewed": 18,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "AFVQZQ8PW0L",
+      "avg_score_given": 4.27,
+      "reviews_written": 11,
+      "avg_text_length": 1531.82,
+      "books_reviewed": 11,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "A4FX5YCJA630V",
+      "avg_score_given": 3.57,
+      "reviews_written": 7,
+      "avg_text_length": 3304.0,
+      "books_reviewed": 7,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "AHD101501WCN1",
+      "avg_score_given": 3.86,
+      "reviews_written": 7,
+      "avg_text_length": 1150.86,
+      "books_reviewed": 7,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "A14OJS0VWMOSWO",
+      "avg_score_given": 5.0,
+      "reviews_written": 6,
+      "avg_text_length": 513.33,
+      "books_reviewed": 6,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "A1K1JW1C5CUSUZ",
+      "avg_score_given": 3.5,
+      "reviews_written": 6,
+      "avg_text_length": 3278.5,
+      "books_reviewed": 6,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "A3FHAMLNGHCFU7",
+      "avg_score_given": 3.17,
+      "reviews_written": 6,
+      "avg_text_length": 1633.33,
+      "books_reviewed": 6,
+      "user_type": "Ativo"
+    },
+    {
+      "User_id": "A1JTG5X4VHJV27",
+      "avg_score_given": 3.2,
+      "reviews_written": 5,
+      "avg_text_length": 1414.6,
+      "books_reviewed": 5,
+      "user_type": "Regular"
+    },
+    {
+      "User_id": "A1L43KWWR05PCS",
+      "avg_score_given": 3.4,
+      "reviews_written": 5,
+      "avg_text_length": 1337.8,
+      "books_reviewed": 5,
+      "user_type": "Regular"
+    },
+    {
+      "User_id": "A1N1YEMTI9DJ86",
+      "avg_score_given": 4.6,
+      "reviews_written": 5,
+      "avg_text_length": 818.2,
+      "books_reviewed": 5,
+      "user_type": "Regular"
+    }
+  ],
+  "most_critical_users": [
+    {
+      "User_id": "A102Z6N7PITZII",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 7527.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A107ADY46SEAJY",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 270.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A109FW05W3HQ8R",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 1736.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10A1S5NAQBT21",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 197.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10AWF211VZFU3",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 367.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10ETRD28JC146",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 92.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10HMID41ZP0U6",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 220.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10UH19NKMGP59",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 267.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10VNJV6U1UIO3",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 221.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10WTQ00AXIH3G",
+      "avg_score_given": 1.0,
+      "reviews_written": 1,
+      "avg_text_length": 439.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    }
+  ],
+  "most_positive_users": [
+    {
+      "User_id": "A07499033J00HJA11NP0K",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 245.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A09199063RXJKOPKYUZUZ",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 248.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10074L6C72JM1",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 177.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A100PHXQUU7ZZN",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 826.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A101H2WQIESAFO",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 467.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A103IVQQKMMN4P",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 338.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10DCMUNEREX9V",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 165.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10EXAMAKGPWYI",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 3703.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10FETWHTT0CCO",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 1181.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    },
+    {
+      "User_id": "A10K8INOCHMHXU",
+      "avg_score_given": 5.0,
+      "reviews_written": 1,
+      "avg_text_length": 2006.0,
+      "books_reviewed": 1,
+      "user_type": "Casual"
+    }
+  ],
+  "summary_stats": {
+    "total_users_analyzed": 9420,
+    "avg_reviews_per_user": 1.0615711252653928,
+    "avg_score_given": 2.9699766454352443,
+    "most_active_user_type": "Casual",
+    "critical_user_type": "Casual"
+  },
+  "insights": [
+    "Usuários Casual são os mais numerosos",
+    "Usuários Casual tendem a ser mais críticos",
+    "Média de 1.1 avaliações por usuário",
+    "Score médio dado pelos usuários: 2.97/5.0"
+  ]
+}

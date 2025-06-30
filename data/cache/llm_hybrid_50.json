@@ -1,0 +1,48 @@
+{
+  "local_analysis": {
+    "total_processed": 10009,
+    "sentiment_distribution": {
+      "nan": 14996,
+      "POSITIVE": 5017,
+      "NEUTRAL": 3831,
+      "NEGATIVE": 1161
+    },
+    "processing_time": "~5 segundos (simulado)"
+  },
+  "gpt_analysis": {
+    "total_processed": 50,
+    "themes_extracted": [
+      "geral",
+      "narrativa",
+      "início",
+      "personagens",
+      "final",
+      "estilo"
+    ],
+    "discrepancies_found": 32,
+    "avg_confidence": 0.8163050731670257,
+    "processing_time": "~10 segundos (simulado)"
+  },
+  "comparison": {
+    "agreement_rate": 0.0,
+    "total_comparison": 10009,
+    "vader_vs_local": {
+      "agreement": 0.0,
+      "vader_avg_discrepancy": 0.7680087920871216,
+      "local_avg_discrepancy": NaN
+    },
+    "gpt_analysis": null,
+    "insights": [
+      "Concordância VADER vs Simulado: 0.0%",
+      "Discrepância média VADER vs Score: 0.77",
+      "Discrepância média Simulado vs Score: nan",
+      "⚠️  Análise simulada para demonstração (sem dependências externas)"
+    ]
+  },
+  "insights": [
+    "Concordância VADER vs Simulado: 0.0%",
+    "Discrepância média VADER vs Score: 0.77",
+    "Discrepância média Simulado vs Score: nan",
+    "⚠️  Análise simulada para demonstração (sem dependências externas)"
+  ]
+}

@@ -1,0 +1,1 @@
+# Módulo analyzers - Análises e algoritmos 

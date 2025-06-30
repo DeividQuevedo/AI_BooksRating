@@ -1,0 +1,681 @@
+{
+  "top_by_score": [
+    {
+      "Title": "The age of reason: Being an investigation of true and fabulous theology",
+      "avg_score": 5.0,
+      "review_count": 5,
+      "avg_text_length": 575.0,
+      "unique_users": 5
+    },
+    {
+      "Title": "A Tree Grows in Brooklyn",
+      "avg_score": 4.9,
+      "review_count": 10,
+      "avg_text_length": 692.6,
+      "unique_users": 10
+    },
+    {
+      "Title": "Lonesome Dove",
+      "avg_score": 4.86,
+      "review_count": 7,
+      "avg_text_length": 538.14,
+      "unique_users": 7
+    },
+    {
+      "Title": "Where the wild things are [by] Maurice Sendak (Novel units)",
+      "avg_score": 4.83,
+      "review_count": 6,
+      "avg_text_length": 172.33,
+      "unique_users": 6
+    },
+    {
+      "Title": "Alice in Wonderland and Through the Looking Glass",
+      "avg_score": 4.8,
+      "review_count": 5,
+      "avg_text_length": 571.2,
+      "unique_users": 5
+    },
+    {
+      "Title": "A Christmas Carol, in Prose: Being a Ghost Story of Christmas (Collected Works of Charles Dickens)",
+      "avg_score": 4.6,
+      "review_count": 5,
+      "avg_text_length": 388.4,
+      "unique_users": 5
+    },
+    {
+      "Title": "Flush",
+      "avg_score": 4.6,
+      "review_count": 5,
+      "avg_text_length": 417.2,
+      "unique_users": 5
+    },
+    {
+      "Title": "George Orwell 1984",
+      "avg_score": 4.6,
+      "review_count": 5,
+      "avg_text_length": 1697.0,
+      "unique_users": 5
+    },
+    {
+      "Title": "Push: A Novel",
+      "avg_score": 4.6,
+      "review_count": 5,
+      "avg_text_length": 323.2,
+      "unique_users": 5
+    },
+    {
+      "Title": "Slaughterhouse-Five : Or the Children's Crusade",
+      "avg_score": 4.5,
+      "review_count": 6,
+      "avg_text_length": 1374.5,
+      "unique_users": 6
+    },
+    {
+      "Title": "The Godfather",
+      "avg_score": 4.43,
+      "review_count": 7,
+      "avg_text_length": 1135.57,
+      "unique_users": 7
+    },
+    {
+      "Title": "Key to Rebecca",
+      "avg_score": 4.4,
+      "review_count": 5,
+      "avg_text_length": 571.0,
+      "unique_users": 5
+    },
+    {
+      "Title": "The forgotten soldier",
+      "avg_score": 4.4,
+      "review_count": 5,
+      "avg_text_length": 590.0,
+      "unique_users": 5
+    },
+    {
+      "Title": "Holes",
+      "avg_score": 4.38,
+      "review_count": 8,
+      "avg_text_length": 1021.62,
+      "unique_users": 8
+    },
+    {
+      "Title": "Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health",
+      "avg_score": 4.38,
+      "review_count": 8,
+      "avg_text_length": 524.88,
+      "unique_users": 8
+    },
+    {
+      "Title": "Lion, the Witch, and the Wardrobe",
+      "avg_score": 4.33,
+      "review_count": 6,
+      "avg_text_length": 1406.33,
+      "unique_users": 6
+    },
+    {
+      "Title": "Middlesex [Unabridged Audiobook]",
+      "avg_score": 4.33,
+      "review_count": 6,
+      "avg_text_length": 859.67,
+      "unique_users": 6
+    },
+    {
+      "Title": "The Richest Man in Babylon",
+      "avg_score": 4.33,
+      "review_count": 6,
+      "avg_text_length": 353.33,
+      "unique_users": 6
+    },
+    {
+      "Title": "the Picture of Dorian Gray",
+      "avg_score": 4.29,
+      "review_count": 7,
+      "avg_text_length": 1022.0,
+      "unique_users": 7
+    },
+    {
+      "Title": "The Hobbit; Or, There and Back Again",
+      "avg_score": 4.27,
+      "review_count": 26,
+      "avg_text_length": 525.73,
+      "unique_users": 26
+    },
+    {
+      "Title": "Harry Potter & the Prisoner of Azkaban",
+      "avg_score": 4.25,
+      "review_count": 8,
+      "avg_text_length": 435.5,
+      "unique_users": 8
+    },
+    {
+      "Title": "Jane Eyre (Simple English)",
+      "avg_score": 4.25,
+      "review_count": 12,
+      "avg_text_length": 870.5,
+      "unique_users": 12
+    },
+    {
+      "Title": "The Jungle Book",
+      "avg_score": 4.22,
+      "review_count": 9,
+      "avg_text_length": 559.44,
+      "unique_users": 9
+    },
+    {
+      "Title": "Bloodsucking Fiends: A Love Story",
+      "avg_score": 4.2,
+      "review_count": 5,
+      "avg_text_length": 493.2,
+      "unique_users": 5
+    },
+    {
+      "Title": "Hamlet",
+      "avg_score": 4.2,
+      "review_count": 5,
+      "avg_text_length": 983.8,
+      "unique_users": 5
+    },
+    {
+      "Title": "Little Women: or Meg, Jo, Beth, and Amy",
+      "avg_score": 4.2,
+      "review_count": 5,
+      "avg_text_length": 1159.8,
+      "unique_users": 5
+    },
+    {
+      "Title": "To Kill a Mocking Bird",
+      "avg_score": 4.2,
+      "review_count": 10,
+      "avg_text_length": 1429.6,
+      "unique_users": 10
+    },
+    {
+      "Title": "The Shadow of the Wind Bestseller's Choice Audio",
+      "avg_score": 4.18,
+      "review_count": 11,
+      "avg_text_length": 774.09,
+      "unique_users": 11
+    },
+    {
+      "Title": "A Christmas carol: In prose",
+      "avg_score": 4.17,
+      "review_count": 6,
+      "avg_text_length": 763.83,
+      "unique_users": 6
+    },
+    {
+      "Title": "Adventures of Huckleberry Finn (Simple English)",
+      "avg_score": 4.17,
+      "review_count": 6,
+      "avg_text_length": 624.17,
+      "unique_users": 6
+    }
+  ],
+  "top_by_popularity": [
+    {
+      "Title": "Wuthering Heights",
+      "avg_score": 2.88,
+      "review_count": 120,
+      "avg_text_length": 799.82,
+      "unique_users": 109
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "avg_score": 3.33,
+      "review_count": 111,
+      "avg_text_length": 751.08,
+      "unique_users": 101
+    },
+    {
+      "Title": "Atlas Shrugged",
+      "avg_score": 2.63,
+      "review_count": 109,
+      "avg_text_length": 1105.39,
+      "unique_users": 107
+    },
+    {
+      "Title": "The Hobbit",
+      "avg_score": 3.73,
+      "review_count": 97,
+      "avg_text_length": 625.22,
+      "unique_users": 95
+    },
+    {
+      "Title": "Brave New World",
+      "avg_score": 2.93,
+      "review_count": 75,
+      "avg_text_length": 1431.92,
+      "unique_users": 65
+    },
+    {
+      "Title": "The Scarlet Letter A Romance",
+      "avg_score": 2.85,
+      "review_count": 71,
+      "avg_text_length": 1013.15,
+      "unique_users": 62
+    },
+    {
+      "Title": "Great Expectations",
+      "avg_score": 2.6,
+      "review_count": 63,
+      "avg_text_length": 763.68,
+      "unique_users": 58
+    },
+    {
+      "Title": "Crossroads of Twilight (The Wheel of Time, Book 10)",
+      "avg_score": 1.61,
+      "review_count": 57,
+      "avg_text_length": 1047.98,
+      "unique_users": 57
+    },
+    {
+      "Title": "Persuasion",
+      "avg_score": 3.29,
+      "review_count": 55,
+      "avg_text_length": 661.64,
+      "unique_users": 46
+    },
+    {
+      "Title": "The Picture of Dorian Gray",
+      "avg_score": 3.19,
+      "review_count": 47,
+      "avg_text_length": 943.85,
+      "unique_users": 45
+    },
+    {
+      "Title": "The Great Gatsby",
+      "avg_score": 3.09,
+      "review_count": 43,
+      "avg_text_length": 842.19,
+      "unique_users": 43
+    },
+    {
+      "Title": "Blink: The Power of Thinking Without Thinking",
+      "avg_score": 2.75,
+      "review_count": 40,
+      "avg_text_length": 840.82,
+      "unique_users": 39
+    },
+    {
+      "Title": "Mere Christianity",
+      "avg_score": 2.7,
+      "review_count": 40,
+      "avg_text_length": 1775.5,
+      "unique_users": 37
+    },
+    {
+      "Title": "Of Mice and Men",
+      "avg_score": 3.22,
+      "review_count": 40,
+      "avg_text_length": 773.52,
+      "unique_users": 40
+    },
+    {
+      "Title": "Rich Dad, Poor Dad",
+      "avg_score": 2.68,
+      "review_count": 40,
+      "avg_text_length": 1028.85,
+      "unique_users": 40
+    },
+    {
+      "Title": "The Bear and the Dragon",
+      "avg_score": 1.8,
+      "review_count": 40,
+      "avg_text_length": 1073.1,
+      "unique_users": 40
+    },
+    {
+      "Title": "Ulysses",
+      "avg_score": 2.21,
+      "review_count": 39,
+      "avg_text_length": 1137.1,
+      "unique_users": 36
+    },
+    {
+      "Title": "Unfit for Command: Swift Boat Veterans Speak Out Against John Kerry",
+      "avg_score": 1.97,
+      "review_count": 35,
+      "avg_text_length": 893.2,
+      "unique_users": 35
+    },
+    {
+      "Title": "Fahrenheit 451",
+      "avg_score": 3.33,
+      "review_count": 33,
+      "avg_text_length": 1072.06,
+      "unique_users": 33
+    },
+    {
+      "Title": "Stranger in a Strange Land",
+      "avg_score": 3.06,
+      "review_count": 33,
+      "avg_text_length": 1110.3,
+      "unique_users": 32
+    },
+    {
+      "Title": "THE CATCHER IN THE RYE",
+      "avg_score": 2.48,
+      "review_count": 33,
+      "avg_text_length": 939.61,
+      "unique_users": 33
+    },
+    {
+      "Title": "ERAGON: INHERITANCE, BOOK ONE.",
+      "avg_score": 2.56,
+      "review_count": 32,
+      "avg_text_length": 1440.81,
+      "unique_users": 32
+    },
+    {
+      "Title": "Harry Potter and The Sorcerer's Stone",
+      "avg_score": 3.81,
+      "review_count": 31,
+      "avg_text_length": 554.1,
+      "unique_users": 31
+    },
+    {
+      "Title": "The Alchemist: A Fable about Following Your Dream",
+      "avg_score": 2.57,
+      "review_count": 30,
+      "avg_text_length": 841.87,
+      "unique_users": 30
+    },
+    {
+      "Title": "Who Moved My Cheese? An-Amazing Way to Deal with Change in Your Work and in Your Life",
+      "avg_score": 2.55,
+      "review_count": 29,
+      "avg_text_length": 1076.03,
+      "unique_users": 29
+    },
+    {
+      "Title": "Hannibal (Hannibal Lecter)",
+      "avg_score": 2.39,
+      "review_count": 28,
+      "avg_text_length": 844.89,
+      "unique_users": 28
+    },
+    {
+      "Title": "Lord of the Flies",
+      "avg_score": 2.89,
+      "review_count": 28,
+      "avg_text_length": 921.82,
+      "unique_users": 27
+    },
+    {
+      "Title": "Lord of the flies",
+      "avg_score": 2.96,
+      "review_count": 28,
+      "avg_text_length": 1042.21,
+      "unique_users": 28
+    },
+    {
+      "Title": "The Catcher in the Rye [Audiobook] [Cd] [Unabridged] (Audio CD)",
+      "avg_score": 2.64,
+      "review_count": 28,
+      "avg_text_length": 1129.96,
+      "unique_users": 28
+    },
+    {
+      "Title": "The Fountainhead",
+      "avg_score": 2.57,
+      "review_count": 28,
+      "avg_text_length": 1438.11,
+      "unique_users": 28
+    }
+  ],
+  "top_by_engagement": [
+    {
+      "Title": "The Hobbit",
+      "avg_score": 3.73,
+      "review_count": 97,
+      "avg_text_length": 625.22,
+      "unique_users": 95,
+      "engagement_score": 17.063671949817618
+    },
+    {
+      "Title": "Pride and Prejudice",
+      "avg_score": 3.33,
+      "review_count": 111,
+      "avg_text_length": 751.08,
+      "unique_users": 101,
+      "engagement_score": 15.682735570370072
+    },
+    {
+      "Title": "The Hobbit; Or, There and Back Again",
+      "avg_score": 4.27,
+      "review_count": 26,
+      "avg_text_length": 525.73,
+      "unique_users": 26,
+      "engagement_score": 13.912072217351728
+    },
+    {
+      "Title": "Wuthering Heights",
+      "avg_score": 2.88,
+      "review_count": 120,
+      "avg_text_length": 799.82,
+      "unique_users": 109,
+      "engagement_score": 13.787976219212291
+    },
+    {
+      "Title": "Persuasion",
+      "avg_score": 3.29,
+      "review_count": 55,
+      "avg_text_length": 661.64,
+      "unique_users": 46,
+      "engagement_score": 13.18412617941483
+    },
+    {
+      "Title": "Harry Potter and The Sorcerer's Stone",
+      "avg_score": 3.81,
+      "review_count": 31,
+      "avg_text_length": 554.1,
+      "unique_users": 31,
+      "engagement_score": 13.083491249088407
+    },
+    {
+      "Title": "Brave New World",
+      "avg_score": 2.93,
+      "review_count": 75,
+      "avg_text_length": 1431.92,
+      "unique_users": 65,
+      "engagement_score": 12.65024017266139
+    },
+    {
+      "Title": "The Hobbit There and Back Again",
+      "avg_score": 3.88,
+      "review_count": 26,
+      "avg_text_length": 363.85,
+      "unique_users": 26,
+      "engagement_score": 12.64141456752335
+    },
+    {
+      "Title": "Atlas Shrugged",
+      "avg_score": 2.63,
+      "review_count": 109,
+      "avg_text_length": 1105.39,
+      "unique_users": 107,
+      "engagement_score": 12.338244930262647
+    },
+    {
+      "Title": "The Picture of Dorian Gray",
+      "avg_score": 3.19,
+      "review_count": 47,
+      "avg_text_length": 943.85,
+      "unique_users": 45,
+      "engagement_score": 12.281970849455087
+    },
+    {
+      "Title": "The Scarlet Letter A Romance",
+      "avg_score": 2.85,
+      "review_count": 71,
+      "avg_text_length": 1013.15,
+      "unique_users": 62,
+      "engagement_score": 12.14863764956775
+    },
+    {
+      "Title": "Of Mice and Men",
+      "avg_score": 3.22,
+      "review_count": 40,
+      "avg_text_length": 773.52,
+      "unique_users": 40,
+      "engagement_score": 11.878191842246876
+    },
+    {
+      "Title": "Fahrenheit 451",
+      "avg_score": 3.33,
+      "review_count": 33,
+      "avg_text_length": 1072.06,
+      "unique_users": 33,
+      "engagement_score": 11.64337017968338
+    },
+    {
+      "Title": "The Great Gatsby",
+      "avg_score": 3.09,
+      "review_count": 43,
+      "avg_text_length": 842.19,
+      "unique_users": 43,
+      "engagement_score": 11.622108357493108
+    },
+    {
+      "Title": "To kill a mockingbird",
+      "avg_score": 3.52,
+      "review_count": 25,
+      "avg_text_length": 1096.16,
+      "unique_users": 24,
+      "engagement_score": 11.330442903536065
+    },
+    {
+      "Title": "A Tree Grows in Brooklyn",
+      "avg_score": 4.9,
+      "review_count": 10,
+      "avg_text_length": 692.6,
+      "unique_users": 10,
+      "engagement_score": 11.282666955670825
+    },
+    {
+      "Title": "Pride & Prejudice (New Windmill)",
+      "avg_score": 3.83,
+      "review_count": 18,
+      "avg_text_length": 476.11,
+      "unique_users": 18,
+      "engagement_score": 11.07012383274231
+    },
+    {
+      "Title": "The Catcher in the Rye",
+      "avg_score": 3.35,
+      "review_count": 26,
+      "avg_text_length": 1087.08,
+      "unique_users": 26,
+      "engagement_score": 10.914623402371966
+    },
+    {
+      "Title": "Great Expectations",
+      "avg_score": 2.6,
+      "review_count": 63,
+      "avg_text_length": 763.68,
+      "unique_users": 58,
+      "engagement_score": 10.772150288617985
+    },
+    {
+      "Title": "Stranger in a Strange Land",
+      "avg_score": 3.06,
+      "review_count": 33,
+      "avg_text_length": 1110.3,
+      "unique_users": 32,
+      "engagement_score": 10.69931313808743
+    },
+    {
+      "Title": "Man's Search for Meaning",
+      "avg_score": 3.76,
+      "review_count": 17,
+      "avg_text_length": 927.76,
+      "unique_users": 17,
+      "engagement_score": 10.652882173651372
+    },
+    {
+      "Title": "Jane Eyre (Simple English)",
+      "avg_score": 4.25,
+      "review_count": 12,
+      "avg_text_length": 870.5,
+      "unique_users": 12,
+      "engagement_score": 10.560853261599002
+    },
+    {
+      "Title": "Gone with the Wind",
+      "avg_score": 3.61,
+      "review_count": 18,
+      "avg_text_length": 1219.83,
+      "unique_users": 16,
+      "engagement_score": 10.434242046005153
+    },
+    {
+      "Title": "The Hobbitt, or there and back again; illustrated by the author.",
+      "avg_score": 4.17,
+      "review_count": 12,
+      "avg_text_length": 553.17,
+      "unique_users": 12,
+      "engagement_score": 10.362060729615962
+    },
+    {
+      "Title": "1984",
+      "avg_score": 3.45,
+      "review_count": 20,
+      "avg_text_length": 1588.9,
+      "unique_users": 20,
+      "engagement_score": 10.335276343761269
+    },
+    {
+      "Title": "Great Gatsby (Everyman)",
+      "avg_score": 3.8,
+      "review_count": 15,
+      "avg_text_length": 781.47,
+      "unique_users": 15,
+      "engagement_score": 10.290590764188398
+    },
+    {
+      "Title": "Frankenstein (Running Press classics)",
+      "avg_score": 3.38,
+      "review_count": 21,
+      "avg_text_length": 830.38,
+      "unique_users": 21,
+      "engagement_score": 10.29048583950517
+    },
+    {
+      "Title": "The Giver",
+      "avg_score": 3.15,
+      "review_count": 26,
+      "avg_text_length": 746.81,
+      "unique_users": 26,
+      "engagement_score": 10.263004094767668
+    },
+    {
+      "Title": "Wuthering Heights (Signet classics)",
+      "avg_score": 3.11,
+      "review_count": 27,
+      "avg_text_length": 890.93,
+      "unique_users": 27,
+      "engagement_score": 10.250052653273464
+    },
+    {
+      "Title": "Memoirs of a Geisha (Signed)",
+      "avg_score": 3.26,
+      "review_count": 23,
+      "avg_text_length": 680.7,
+      "unique_users": 23,
+      "engagement_score": 10.221711143929028
+    }
+  ],
+  "summary_stats": {
+    "total_books_analyzed": 733,
+    "avg_reviews_per_book": 10.30150068212824,
+    "avg_score_all_books": 2.9297407912687587,
+    "most_popular_book": "Wuthering Heights",
+    "highest_rated_book": "The age of reason: Being an investigation of true and fabulous theology"
+  },
+  "insights": [
+    "Livro mais popular: 'Wuthering Heights' com 120 avaliações",
+    "Livro melhor avaliado: 'The age of reason: Being an investigation of true and fabulous theology' com score 5.00/5.0",
+    "Média de 10.3 avaliações por livro",
+    "Score médio geral dos livros: 2.93/5.0"
+  ]
+}
